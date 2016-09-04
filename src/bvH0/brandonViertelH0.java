@@ -1,4 +1,4 @@
-public class h1 {
+public class brandonViertelH0 {
   
   public static void main(String[] args) {
     
